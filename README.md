@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi 👋, I'm Gutha Sai Ram Reddy
 
-<!--
-**guthasairamreddy99-create/guthasairamreddy99-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI Engineer | Data Analyst | Python Developer
 
-Here are some ideas to get you started:
+I'm a B.Tech Computer Science (AI & ML) student passionate about Artificial Intelligence, Machine Learning, Data Analytics, and Python Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on real-world FinTech projects and continuously improving my software development and data analysis skills.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE (AI & ML)
+- 🌱 Currently learning Machine Learning, Data Analytics & Streamlit
+- 💼 Working on Mutual Fund Analytics Capstone Project
+- 🎯 Goal: Become an AI Software Engineer
+- ⚡ Interested in AI, Data Science, Python & FinTech
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- Python
+- SQL
+- HTML
+- CSS
+- JavaScript
+
+### Libraries
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- SQLite
+- Streamlit
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Mutual Fund Analytics Capstone
+- Data Ingestion
+- Data Cleaning
+- SQL Database
+- Exploratory Data Analysis
+- Interactive Visualizations
+
+### 🤖 AI Burnout Detection
+Machine Learning project for detecting employee burnout risk.
+
+### 📒 Contact Book Application
+Python CLI application for storing and managing contacts.
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: guthasairamreddy99@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/gutha-sai-ram-reddy-87a799358
+
+---
+
+⭐ Thank you for visiting my profile!
