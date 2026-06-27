@@ -110,3 +110,5 @@ Python CLI application for storing and managing contacts.
 ## 💡 Quote
 
 > "The best way to predict the future is to build it." 🚀
+
+⭐ Thank you for visiting my GitHub Profile!
